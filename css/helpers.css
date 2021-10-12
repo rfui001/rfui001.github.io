@@ -1,0 +1,25 @@
+
+.f {
+	display: flex;
+}
+
+.f_grow_1 {
+    flex-grow: 1;
+}
+
+.f_dir_col {
+	flex-direction: column;
+}
+.f_wrap_wrap {
+    flex-wrap: wrap;
+}
+.f_jus_cen {
+    justify-content: center;
+}
+.f_alg_cen {
+	align-items: center;
+}
+
+.w100 {
+	width: 100%;
+}

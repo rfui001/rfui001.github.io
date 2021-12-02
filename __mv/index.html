@@ -1,0 +1,111 @@
+<main class="main" >
+	<div class="containerControl" >
+		<div class="flex" >FPS: <div style="width: 10px;" ></div><div id="showFPS" ></div></div>
+		<div class="flex" style="display: none;" >Idle FPS: <div style="width: 10px;" ></div><div id="idleFPS" ></div></div>
+		<div >Num objects: <span id="numObjectsShow" ></span></div>
+		<input type="number" id="numObjects" />
+		<div class="aniList groupButtons" >
+			<button>IDLE</button>
+			<button>WALK</button>
+			<button>WARWALK</button>
+			<button>ATTACK</button>
+			<button>DIE</button>
+		</div>
+		<div class="fullScreen groupButtons" >
+			<button>FULL SCREEN</button>
+		</div>
+	</div>
+	<div>
+		<div class="wrapperCnv" >
+			<canvas id="cnv" ></canvas>
+		</div>
+	</div>
+	<div style="height: 20px;" ></div>
+<main>
+
+<style>
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	user-select: none;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	background: #111;
+}
+
+.main {
+	padding: 10px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 2px;
+}
+.containerControl {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2px;
+	z-index: 2;
+	color: #CCC;
+}
+
+input {
+	width: 200px;
+}
+#cnv {
+	width: 640px;
+	height: 480px;
+	background: #000;
+	z-index: 1;
+}
+.wrapperCnv {
+	border: 1px solid #484848;
+	display: inline-flex;
+}
+
+.flex {
+	display: flex;
+}
+
+.groupButtons button {
+	outline: none;
+    border: none;
+    padding: 5px;
+    background: #484848;
+    color: #FFF;
+    border-radius: 3px;
+	cursor: pointer;
+	position: relative;
+}
+.groupButtons button:hover {
+	text-shadow: 0px 0px 12px #fff;
+}
+.groupButtons button.active:before {
+	content: "";
+    width: 100%;
+    position: absolute;
+    height: 4px;
+    z-index: 2;
+    background: #0721a0;
+    bottom: 0px;
+    left: 0px;
+}
+
+.modeFullScreen #cnv {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top: 0px;
+    left: 0px;
+    border: none;
+}
+</style>
+
+
+<script type="module" src="./mat4.js" ></script>
+<script type="module" src="./worker.js" ></script>
+<script type="module" src="./script.js" ></script>
+
+
+<script type="module" src="./dist/worker.js" ></script>

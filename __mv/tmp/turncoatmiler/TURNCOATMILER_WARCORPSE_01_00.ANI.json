@@ -1,0 +1,1373 @@
+[
+ {
+  "boneName": "G1",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "S1",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "U0",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "L1",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "L0",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "S0",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "U5",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "U4",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "U3",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "U2",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "U1",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "G0",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "L3",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "L2",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "Bip01",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": 0,
+     "1": 0,
+     "2": 0.7071080803871155,
+     "3": 0.7071055173873901
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": -0.44372308254241943,
+     "1": -0.5256900191307068,
+     "2": 0.434334397315979,
+     "3": 0.5814369916915894
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": -0.44372308254241943,
+     "1": -0.5256900191307068,
+     "2": 0.434334397315979,
+     "3": 0.5814369916915894
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [
+   {
+    "pos": {
+     "0": 0,
+     "1": 0,
+     "2": 8.803999900817871
+    },
+    "frame": 0
+   },
+   {
+    "pos": {
+     "0": 0.18549999594688416,
+     "1": -10.199799537658691,
+     "2": 0.5160999894142151
+    },
+    "frame": 160
+   },
+   {
+    "pos": {
+     "0": 0.18549999594688416,
+     "1": -10.199799537658691,
+     "2": 0.5160999894142151
+    },
+    "frame": 160
+   }
+  ],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "Bip01 Footsteps",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": 0,
+     "1": 0,
+     "2": -0.7071080803871155,
+     "3": 0.7071055173873901
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": 0.44372496008872986,
+     "1": 0.5256884694099426,
+     "2": -0.434334397315979,
+     "3": 0.5814369916915894
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": 0.44372496008872986,
+     "1": 0.5256884694099426,
+     "2": -0.434334397315979,
+     "3": 0.5814369916915894
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [
+   {
+    "pos": {
+     "0": 0,
+     "1": 0,
+     "2": -10.251099586486816
+    },
+    "frame": 0
+   },
+   {
+    "pos": {
+     "0": 0.5148000121116638,
+     "1": -0.030700000002980232,
+     "2": -0.02759999968111515
+    },
+    "frame": 160
+   },
+   {
+    "pos": {
+     "0": 0.5148000121116638,
+     "1": -0.030700000002980232,
+     "2": -0.02759999968111515
+    },
+    "frame": 160
+   }
+  ],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "Bip01 Spine",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": 0.0000020799998310394585,
+     "1": 6.79999970998324e-7,
+     "2": -0.00039999998989515007,
+     "3": 0.9999999403953552
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": 0.0008200057200156152,
+     "1": 0.00041464727837592363,
+     "2": -0.0001505295222159475,
+     "3": 0.9999995827674866
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": 0.0008200057200156152,
+     "1": 0.00041464727837592363,
+     "2": -0.0001505295222159475,
+     "3": 0.9999995827674866
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "Bip01 Spine1",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": 0,
+     "1": 0,
+     "2": 0.12184646725654602,
+     "3": 0.992548942565918
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": -0.00031452951952815056,
+     "1": 0.034423958510160446,
+     "2": 0.04898879677057266,
+     "3": 0.9982060194015503
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": -0.00031452951952815056,
+     "1": 0.034423958510160446,
+     "2": 0.04898879677057266,
+     "3": 0.9982060194015503
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "Bip01 Neck",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": 0,
+     "1": 0,
+     "2": -0.27981364727020264,
+     "3": 0.960054337978363
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": -0.006103560794144869,
+     "1": -0.03435451537370682,
+     "2": -0.20902980864048004,
+     "3": 0.9772863984107971
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": -0.006103560794144869,
+     "1": -0.03435451537370682,
+     "2": -0.20902980864048004,
+     "3": 0.9772863984107971
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "Bip01 Head",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": 0,
+     "1": 0,
+     "2": 0.13959261775016785,
+     "3": 0.9902090430259705
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": -0.4507767856121063,
+     "1": 0.10634705424308777,
+     "2": 0.22091422975063324,
+     "3": 0.8582931756973267
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": -0.4507767856121063,
+     "1": 0.10634705424308777,
+     "2": 0.22091422975063324,
+     "3": 0.8582931756973267
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "H0",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "H1",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "Bip01 L Clavicle",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": -0.59124356508255,
+     "1": 0.17263297736644745,
+     "2": -0.7562689781188965,
+     "3": 0.22076267004013062
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": -0.5671814680099487,
+     "1": 0.12954752147197723,
+     "2": -0.796625554561615,
+     "3": 0.16419658064842224
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": -0.5671814680099487,
+     "1": 0.12954752147197723,
+     "2": -0.796625554561615,
+     "3": 0.16419658064842224
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [
+   {
+    "pos": {
+     "0": -0.19539999961853027,
+     "1": -0.17110000550746918,
+     "2": 0.262800008058548
+    },
+    "frame": 0
+   },
+   {
+    "pos": {
+     "0": -0.18520000576972961,
+     "1": -0.1907999962568283,
+     "2": 0.2565000057220459
+    },
+    "frame": 160
+   },
+   {
+    "pos": {
+     "0": -0.18520000576972961,
+     "1": -0.1907999962568283,
+     "2": 0.2565000057220459
+    },
+    "frame": 160
+   }
+  ],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "Bip01 L UpperArm",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": -0.09766267985105515,
+     "1": -0.30676308274269104,
+     "2": -0.04907558113336563,
+     "3": 0.9454901218414307
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": 0.5765286684036255,
+     "1": -0.15391162037849426,
+     "2": 0.016377195715904236,
+     "3": 0.8022939562797546
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": 0.5765286684036255,
+     "1": -0.15391162037849426,
+     "2": 0.016377195715904236,
+     "3": 0.8022939562797546
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "Bip01 L Forearm",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": 0,
+     "1": 0,
+     "2": -0.013449595309793949,
+     "3": 0.9999095797538757
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": 0,
+     "1": 0,
+     "2": 0.755652666091919,
+     "3": 0.6549726128578186
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": 0,
+     "1": 0,
+     "2": 0.755652666091919,
+     "3": 0.6549726128578186
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "Bip01 L Hand",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": 0.7068251967430115,
+     "1": 0,
+     "2": 0,
+     "3": 0.7073882222175598
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": 0.6467146873474121,
+     "1": 0.17464633285999298,
+     "2": -0.10944655537605286,
+     "3": 0.7343584895133972
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": 0.6467146873474121,
+     "1": 0.17464633285999298,
+     "2": -0.10944655537605286,
+     "3": 0.7343584895133972
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "G3",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "U8",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "Bip01 R Clavicle",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": 0.59124356508255,
+     "1": -0.17263297736644745,
+     "2": -0.7562689781188965,
+     "3": 0.22076267004013062
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": 0.6434072256088257,
+     "1": -0.1650930941104889,
+     "2": -0.7349453568458557,
+     "3": 0.136665940284729
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": 0.6434072256088257,
+     "1": -0.1650930941104889,
+     "2": -0.7349453568458557,
+     "3": 0.136665940284729
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [
+   {
+    "pos": {
+     "0": -0.19539999961853027,
+     "1": -0.17110000550746918,
+     "2": -0.262800008058548
+    },
+    "frame": 0
+   },
+   {
+    "pos": {
+     "0": -0.15119999647140503,
+     "1": -0.2046000063419342,
+     "2": -0.2678000032901764
+    },
+    "frame": 160
+   },
+   {
+    "pos": {
+     "0": -0.15119999647140503,
+     "1": -0.2046000063419342,
+     "2": -0.2678000032901764
+    },
+    "frame": 160
+   }
+  ],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "Bip01 R UpperArm",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": 0.09766267985105515,
+     "1": 0.30676308274269104,
+     "2": -0.04907558113336563,
+     "3": 0.9454901218414307
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": -0.5436286330223083,
+     "1": -0.14247478544712067,
+     "2": 0.202936053276062,
+     "3": 0.8018827438354492
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": -0.5436286330223083,
+     "1": -0.14247478544712067,
+     "2": 0.202936053276062,
+     "3": 0.8018827438354492
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "Bip01 R Forearm",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": 0,
+     "1": 0,
+     "2": -0.013449595309793949,
+     "3": 0.9999095797538757
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": 0,
+     "1": 0,
+     "2": 0.6713657379150391,
+     "3": 0.741126298904419
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": 0,
+     "1": 0,
+     "2": 0.6713657379150391,
+     "3": 0.741126298904419
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "Bip01 R Hand",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": -0.7068251967430115,
+     "1": 0,
+     "2": 0,
+     "3": 0.7073882222175598
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": -0.6680607795715332,
+     "1": -0.20583772659301758,
+     "2": -0.06700295209884644,
+     "3": 0.7119256854057312
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": -0.6680607795715332,
+     "1": -0.20583772659301758,
+     "2": -0.06700295209884644,
+     "3": 0.7119256854057312
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "G2",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "U7",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "U6",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "Bip01 L Thigh",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": 0.019399259239435196,
+     "1": -0.9997617602348328,
+     "2": 0.0001999923406401649,
+     "3": 0.00874623004347086
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": -0.18745137751102448,
+     "1": -0.709148108959198,
+     "2": -0.6600345969200134,
+     "3": -0.16207227110862732
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": -0.18745137751102448,
+     "1": -0.709148108959198,
+     "2": -0.6600345969200134,
+     "3": -0.16207227110862732
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [
+   {
+    "pos": {
+     "0": -0.98089998960495,
+     "1": -0.062300000339746475,
+     "2": 0.7217000126838684
+    },
+    "frame": 0
+   },
+   {
+    "pos": {
+     "0": -0.9801999926567078,
+     "1": -0.06400000303983688,
+     "2": 0.7225000262260437
+    },
+    "frame": 160
+   },
+   {
+    "pos": {
+     "0": -0.9801999926567078,
+     "1": -0.06400000303983688,
+     "2": 0.7225000262260437
+    },
+    "frame": 160
+   }
+  ],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "Bip01 L Calf",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": 0,
+     "1": 0,
+     "2": -0.004699982702732086,
+     "3": 0.9999889731407166
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": 0,
+     "1": 0,
+     "2": 0.1529967188835144,
+     "3": 0.9882266521453857
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": 0,
+     "1": 0,
+     "2": 0.1529967188835144,
+     "3": 0.9882266521453857
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "Bip01 L Foot",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": 0.00016576657071709633,
+     "1": -0.00873328186571598,
+     "2": -0.015105698257684708,
+     "3": 0.9998477697372437
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": -0.013826943002641201,
+     "1": -0.026623306795954704,
+     "2": 0.15777075290679932,
+     "3": 0.9870211482048035
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": -0.013826943002641201,
+     "1": -0.026623306795954704,
+     "2": 0.15777075290679932,
+     "3": 0.9870211482048035
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "Bip01 R Thigh",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": 0.019399266690015793,
+     "1": -0.9997621774673462,
+     "2": -0.00019999241339974105,
+     "3": -0.008703523315489292
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": -0.10851102322340012,
+     "1": -0.8153270483016968,
+     "2": 0.5359570980072021,
+     "3": 0.1901783049106598
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": -0.10851102322340012,
+     "1": -0.8153270483016968,
+     "2": 0.5359570980072021,
+     "3": 0.1901783049106598
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "Bip01 R Calf",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": 0,
+     "1": 0,
+     "2": -0.004699982702732086,
+     "3": 0.9999889731407166
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": 0,
+     "1": 0,
+     "2": 0.10271850973367691,
+     "3": 0.9947104454040527
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": 0,
+     "1": 0,
+     "2": 0.10271850973367691,
+     "3": 0.9947104454040527
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "Bip01 R Foot",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [
+   {
+    "quat": {
+     "0": -0.00016576657071709633,
+     "1": 0.00873328186571598,
+     "2": -0.015105698257684708,
+     "3": 0.9998477697372437
+    },
+    "frame": 0
+   },
+   {
+    "quat": {
+     "0": -0.03426455706357956,
+     "1": -0.043208956718444824,
+     "2": 0.20278817415237427,
+     "3": 0.9776702523231506
+    },
+    "frame": 160
+   },
+   {
+    "quat": {
+     "0": -0.03426455706357956,
+     "1": -0.043208956718444824,
+     "2": 0.20278817415237427,
+     "3": 0.9776702523231506
+    },
+    "frame": 160
+   }
+  ],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": []
+ },
+ {
+  "boneName": "L4",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ },
+ {
+  "boneName": "F0",
+  "readlNumFrame": 1,
+  "maxFrame": 160,
+  "frameQuatArray": [],
+  "framePosArray": [],
+  "frameUnkVec3Array": [],
+  "frameScaleArray": [
+   {
+    "scale": 1,
+    "frame": 0
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   },
+   {
+    "scale": 1,
+    "frame": 160
+   }
+  ]
+ }
+]
